@@ -1,0 +1,28 @@
+{
+  "name": "dazn-tech-challenge",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.3.4"
+  },
+  "scripts": {
+    "test": "mocha 'tests/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daznnomis/dazn-tech-challenge.git"
+  },
+  "keywords": [],
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daznnomis/dazn-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/daznnomis/dazn-tech-challenge#readme"
+}
